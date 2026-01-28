@@ -1,0 +1,19 @@
+# arquivos compilados do java
+*.class
+
+# logs
+*.log
+
+# arquivos temporarios
+*.tmp
+
+# config do vscoe
+.vscode/
+
+# config de outras ide's 
+.idea/
+*.iml
+
+# sistema operacional
+.DS_Store
+THumbs.db
